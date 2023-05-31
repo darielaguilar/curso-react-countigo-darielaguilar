@@ -1,6 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
-import { IUser } from "../modules/Users/models/user";
+// import { createSlice } from "@reduxjs/toolkit";
+// import { IUser } from "../modules/Users/models/user";
 
-const initialState: IUser = {
-    
-}
+// const initialState: IUser[] 
